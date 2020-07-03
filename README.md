@@ -1,4 +1,4 @@
-# enos-simple-device-invoke-service-
+# enos-simple-device-invoke-service
 This is the sample codes to invoke a service created in an EnOS model. To be used with enos-simple-device-mqtt.
 
 ## Techology stack
